@@ -1,2 +1,2 @@
-# sahilmodi.me
+#ishaanthakur.github.io
 Personal Website
